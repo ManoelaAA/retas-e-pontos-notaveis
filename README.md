@@ -1,6 +1,6 @@
 # Retas-e-pontos-notaveis
 Trabalho feito para a disciplina de Geometria Analítica e Álgebra Linear com o objetivo de analisar pontos de triângulos no plano cartesiano.
-O seguinte código foi realizado de acordo com as seguintes orientações.
+O código foi realizado de acordo com as seguintes orientações.
 1. o ponto médio de qualquer dos lados do triângulo.
 
 2. a equação da reta correpondente a cada lado do triângulo.
